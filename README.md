@@ -1,10 +1,10 @@
-# 📊 Layoffs Data Cleaning Project (SQL)
+# Layoffs Data Cleaning Project (SQL)
 
 This project showcases my SQL skills through a full end-to-end data cleaning process using a dataset of tech company layoffs. The goal was to prepare the raw data for analysis by cleaning, transforming, and organising it.
 
 ---
 
-## 🧠 Project Objective
+## Project Objective
 
 - Clean and standardise a real-world dataset containing tech company layoffs.
 - Apply SQL techniques to handle duplicates, missing values, inconsistencies, and formatting issues.
@@ -12,7 +12,7 @@ This project showcases my SQL skills through a full end-to-end data cleaning pro
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 - Microsoft SQL Server
 - SQL Server Management Studio (SSMS)
@@ -21,7 +21,7 @@ This project showcases my SQL skills through a full end-to-end data cleaning pro
 
 ---
 
-## 🧹 Key Cleaning Tasks
+## Key Cleaning Tasks
 
 - Removed duplicate records
 - Handled null or missing values
@@ -35,7 +35,7 @@ This project showcases my SQL skills through a full end-to-end data cleaning pro
 
 ---
 
-## 📁 File Structure
+## File Structure
 
 | File Name | Description |
 |-----------|-------------|
